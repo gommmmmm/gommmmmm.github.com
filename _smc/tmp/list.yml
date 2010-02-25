@@ -1,0 +1,11 @@
+--- 
+list: 
+- src: /index.html.smc
+  mtime: 1267082081
+  dst: 
+  - /index.html
+- src: /tweetquote.html.smc
+  mtime: 1267082971
+  dst: 
+  - /tweetquote.html
+version: 0.2.1
