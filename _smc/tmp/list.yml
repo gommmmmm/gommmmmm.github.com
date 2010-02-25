@@ -4,7 +4,7 @@ list:
   src: /index.html.smc
   dst: 
   - /index.html
-- mtime: 1267083231
+- mtime: 1267084566
   src: /tweetquote.html.smc
   dst: 
   - /tweetquote.html
